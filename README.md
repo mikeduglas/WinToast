@@ -4,7 +4,7 @@
 
 ### Requirements
 - Windows 10
-- .NET Framework 4.5.1
+- .NET Framework 4.5.2
 
 ### Contacts
 - <mikeduglas@yandex.ru>
