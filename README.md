@@ -1,3 +1,3 @@
 # WinToast
 
-### Abandoned, will move it to EasyDotNet.
+### Now it is a part of [EasyDotNet](http://www.ingasoftplus.com/ProductDetail.php?ProductID=301).
